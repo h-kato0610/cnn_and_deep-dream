@@ -1,6 +1,4 @@
 #!/bin/bash
-# FIXME: このスクリプトは未実行なため、うまく動くか不明......
-
 docker compose build
 docker compose up -d
 
