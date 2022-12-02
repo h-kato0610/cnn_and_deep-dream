@@ -1,4 +1,5 @@
 # Pytoruch and JupyterLab
 
-* Sample
-`https://pystyle.info/docker-create-jupyterlab-environment/`
+* Refernce
+[Docker Refernce](https://pystyle.info/docker-create-jupyterlab-environment/)
+[Source Refernce](https://www.kaggle.com/code/carloalbertobarbano/convolutional-network-visualizations-deep-dream/notebook)
